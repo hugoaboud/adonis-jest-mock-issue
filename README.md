@@ -7,7 +7,7 @@ This is a minimal repository created to reproduce an issue involving `adonisjs` 
 In order to setup the project to reproduce locally:
 
 ```bash
-git clone __
+git clone https://github.com/hugoaboud/adonis-jest-mock-issue
 yarn
 yarn addlib
 ```
